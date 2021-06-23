@@ -1,6 +1,11 @@
 # mac_changer
 MAC Changer for Linux Distros
 
+INSTALLATION
+apt-get install git
+git clone https://github.com/neon-l/mac_changer.git
+
+
 USAGE
 python mac_changer.py [options]
 
